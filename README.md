@@ -5,7 +5,9 @@ Kaggle Covid Dataset and PyTorch were used. \
 `evaluate_xray` is to evaluate X-ray images to predict Covid19 caused lung inflammation.
 
 **Simple Application Flow:**\
-An Image (User Input) -> Image transform -> Inference (forward pass to DL Model for CPU) -> Prediction (Terminal Output)
+An Image (User Input) -> Image transform -> Inference (forward pass to DL Model for CPU) -> Prediction (Terminal Output) \
+
+Project **documentation** of this repository -> https://github.com/sd-deniz/Covid19-Pneumonia-Detection-Deep-Learning-Report-Paper
 
 ---
 **How to use it ?** 
