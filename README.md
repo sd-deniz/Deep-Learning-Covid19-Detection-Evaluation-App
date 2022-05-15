@@ -13,7 +13,7 @@ Project **documentation** of this repository -> https://github.com/sd-deniz/Covi
 **How to use it ?** 
 
 **To run the Covid19 detection program preferably in a virtual environment:**  
-Command -> `git clone https://github.com/rootloginson/repository_name`\
+Command -> `git clone https://github.com/sd-deniz/repository_name`\
 Command -> `pip install -r /path_to/requirements.txt`\
 Command -> `python evaluate_xray.py -img 'imagename'`  
 
